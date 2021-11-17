@@ -1,5 +1,6 @@
 # About myself:  
-Yevhen Surykin  - Oracle DBA  
+Yevhen Surykin  - Oracle DBA
+----------------------------  
 
 ## Why course is interesting for me :  
 * DevOps - it is perspective area  
